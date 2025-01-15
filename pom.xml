@@ -20,7 +20,6 @@
 		<module>uk.ac.kcl.inf.mdd3.turtles.target</module>
 		<module>uk.ac.kcl.inf.mdd3.turtles.tests</module>
 		<module>uk.ac.kcl.inf.mdd3.turtles.ui</module>
-		<module>uk.ac.kcl.inf.mdd.xtext.visualizer</module>
 <!-- removed for automatic builds		
 		<module>uk.ac.kcl.inf.mdd3.turtles.ui.tests</module>
 -->
