@@ -12,7 +12,6 @@ Require-Bundle: uk.ac.kcl.inf.mdd3.turtles,
  org.eclipse.xtext.xbase.lib;bundle-version="2.14.0",
  uk.ac.kcl.inf.mdd3.turtles.ui;bundle-version="1.0.0",
  org.eclipse.xpect.xtext.lib;bundle-version="0.2.0",
- org.eclipse.emf.ecore,
- uk.ac.kcl.inf.mdd.xtext.visualizer;bundle-version="1.0.0"
+ org.eclipse.emf.ecore
 Bundle-RequiredExecutionEnvironment: JavaSE-11
 Export-Package: uk.ac.kcl.inf.mdd3.tests.generator.files
