@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Visualizer
+Bundle-SymbolicName: uk.ac.kcl.inf.mdd.xtext.visualizer
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: uk.ac.kcl.inf.mdd3.turtles.visualizer
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: org.eclipse.emf.ecore,
+ org.eclipse.xtext,
+ javax.inject
+Bundle-ClassPath: lib/jgrapht-core-1.5.1.jar,
+ lib/jgrapht-demo-1.5.1.jar,
+ lib/jgrapht-ext-1.5.1.jar,
+ lib/jgraphx-4.1.0.jar,
+ .
+Export-Package: uk.ac.kcl.inf.mdd.xtext.visualizer

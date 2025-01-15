@@ -1,0 +1,20 @@
+/* XPECT_SETUP uk.ac.kcl.inf.mdd3.tests.generator.files.FilesTest  END_SETUP */
+
+/* 
+
+XPECT generated file MyEntity1.java ---
+(no files have been generated)
+---
+
+XPECT generated file otherFile.turtles.xt.txt ---
+Program contains:
+
+- 0 turn commands
+- 2 move commands
+- 0 top-level loops
+---
+
+*/
+
+backward (10)
+backward (10)

@@ -1,0 +1,15 @@
+/* XPECT_SETUP uk.ac.kcl.inf.mdd3.tests.generator.files.FilesTest  END_SETUP */
+
+/* 
+
+XPECT generated file someFile.turtles.xt.txt ---
+Program contains:
+
+- 0 turn commands
+- 1 move commands
+- 0 top-level loops
+---
+
+*/
+
+backward (10)

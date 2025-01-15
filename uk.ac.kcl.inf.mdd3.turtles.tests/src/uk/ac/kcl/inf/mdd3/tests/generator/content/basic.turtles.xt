@@ -1,0 +1,18 @@
+/* XPECT_SETUP uk.ac.kcl.inf.mdd3.tests.generator.content.ContentTest  END_SETUP */
+
+/* 
+
+XPECT generated ---
+Program contains:
+
+- 1 turn commands
+- 3 move commands
+- 0 top-level loops
+---
+
+*/
+
+backward (10)
+forward (10)
+backward (10)
+turn left by 1.0 degrees
